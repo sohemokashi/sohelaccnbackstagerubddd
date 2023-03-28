@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "SohelBackstage"
+spec:
+  type: service
+  owner: user:guest1
+  lifecycle: experimental
